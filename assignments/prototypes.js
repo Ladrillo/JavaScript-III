@@ -1,3 +1,5 @@
+var a = true;
+
 /*
 
   In order to do these exercises you'll need your newly acquired knowledge on
